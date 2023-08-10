@@ -1,0 +1,15 @@
+/home/arteN01-054/Documents/Joshua/aaaa/bin/Debug/net7.0/aaaa
+/home/arteN01-054/Documents/Joshua/aaaa/bin/Debug/net7.0/aaaa.deps.json
+/home/arteN01-054/Documents/Joshua/aaaa/bin/Debug/net7.0/aaaa.runtimeconfig.json
+/home/arteN01-054/Documents/Joshua/aaaa/bin/Debug/net7.0/aaaa.dll
+/home/arteN01-054/Documents/Joshua/aaaa/bin/Debug/net7.0/aaaa.pdb
+/home/arteN01-054/Documents/Joshua/aaaa/obj/Debug/net7.0/aaaa.csproj.AssemblyReference.cache
+/home/arteN01-054/Documents/Joshua/aaaa/obj/Debug/net7.0/aaaa.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-054/Documents/Joshua/aaaa/obj/Debug/net7.0/aaaa.AssemblyInfoInputs.cache
+/home/arteN01-054/Documents/Joshua/aaaa/obj/Debug/net7.0/aaaa.AssemblyInfo.cs
+/home/arteN01-054/Documents/Joshua/aaaa/obj/Debug/net7.0/aaaa.csproj.CoreCompileInputs.cache
+/home/arteN01-054/Documents/Joshua/aaaa/obj/Debug/net7.0/aaaa.dll
+/home/arteN01-054/Documents/Joshua/aaaa/obj/Debug/net7.0/refint/aaaa.dll
+/home/arteN01-054/Documents/Joshua/aaaa/obj/Debug/net7.0/aaaa.pdb
+/home/arteN01-054/Documents/Joshua/aaaa/obj/Debug/net7.0/aaaa.genruntimeconfig.cache
+/home/arteN01-054/Documents/Joshua/aaaa/obj/Debug/net7.0/ref/aaaa.dll

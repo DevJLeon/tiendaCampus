@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FxlZG99F+3NUSIutzTHZPCSGZ+0l3GHcTGKnqpv7JYmoQsXnmAALJLUDEMNW6gYDnMsJXQDZeFD6oBZuPlR82Q==",
+  "success": true,
+  "projectFilePath": "/home/arteN01-054/Documents/Joshua/aaaa/aaaa.csproj",
+  "expectedPackageFiles": [
+    "/home/arteN01-054/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
