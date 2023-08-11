@@ -20,4 +20,26 @@ public class Product
         this.PrecioCompra = precioCompra;
         this.IdCategoria = idCategoria;
     }
+
+    public static void AddProduct(){
+        Console.Write("Codigo de producto: ");
+        int codProducto = int.Parse(Console.ReadLine());
+        Console.Write("Ingrese nombre de producto: ");
+        string nombre = Console.ReadLine();
+        Console.Write("Ingrese cantidad en stock: ");
+        int stock = int.Parse(Console.ReadLine());
+        Console.Write("Ingrese stock mínimo: ");
+        int stockMin = int.Parse(Console.ReadLine());
+        Console.Write("Ingrese stock máximo: ");
+        int stockMax = int.Parse(Console.ReadLine());
+        Console.Write("Ingrese el precio de venta: ");
+        double precioVenta = double.Parse(Console.ReadLine());
+        Console.Write("Precio de compra: ");
+        double precioCompra = double.Parse(Console.ReadLine());
+        Console.Write("******************************************************");
+        Console.WriteLine("                Categorias de Producto            ");
+        
+        Console.Write("Id de categoria:");
+        int idCategoria = int.Parse(Console.ReadLine());
+    }
 }
